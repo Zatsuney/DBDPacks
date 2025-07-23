@@ -88,3 +88,8 @@ overlay.addEventListener('click', function(e) {
         closeBtn.click();
     }
 });
+
+cd "c:\Users\xShay\OneDrive\Desktop\GhPageDBDicon\githubpage-image-gallery"
+git add .
+git commit -m "Déploiement initial sur GitHub Pages"
+git push origin main
