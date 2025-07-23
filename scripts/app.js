@@ -5,6 +5,7 @@ const images = [
     'images/bright.png',
     'images/magical.png',
     'images/ornament.png',
+    'images/bunny.png',
     // Ajoute ici les autres fichiers images de ton dossier
 ];
 
